@@ -33,7 +33,7 @@ lmdb
 Install via conda:
 
 ```bash
-conda env create -f GeoHDS.yaml
+conda env create -f requirements.yaml
 conda activate geohds
 ```
 

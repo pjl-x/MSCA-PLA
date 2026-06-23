@@ -1,6 +1,12 @@
-# GeoHDS: Geometric Hierarchical Dual-Stream Model for Protein-Ligand Binding
+# MSCA-PLA: Multi-Scale Cross-Attention with Differentiable Pooling for Protein--Ligand Binding Affinity Prediction
 
-GeoHDS is a deep learning framework for protein-ligand binding affinity prediction and ligand efficacy classification. It uses a dual-stream architecture that combines cluster-level hierarchical representations with atom-level cross-attention, fused through a staged gating mechanism.
+Note:
+Some function names in the codebase (e.g., GeoHDS-related naming)
+were retained from the first implementation version for compatibility
+and historical reasons.
+
+The current algorithm proposed in this repository is referred to as
+MSCA-PLA in the paper/documentation.
 
 ## Architecture
 
